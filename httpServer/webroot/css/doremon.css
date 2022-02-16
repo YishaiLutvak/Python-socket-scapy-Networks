@@ -1,0 +1,28 @@
+ .doraemon{margin:auto;}
+ .doraemon *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-transition:border-radius .25s ease-out;-moz-transition:border-radius .25s ease-out;-ms-transition:border-radius .25s ease-out;-o-transition:border-radius .25s ease-out;transition:border-radius .25s ease-out}
+ .doraemon .face{position:relative;width:300px;height:300px;background:#3c96e9;border:#555 3px solid;margin:auto;z-index:0;}
+ .doraemon .face:hover{-webkit-border-radius:150px;-moz-border-radius:150px;-ms-border-radius:150px;-o-border-radius:150px;border-radius:150px}
+ .doraemon .face > *{position:absolute}
+ .doraemon .face .base-white{border:#555 3px solid;width:230px;height:192px;background:#fff;z-index:1;bottom:36px;left:32px}
+ .doraemon .face:hover .base-white{-webkit-border-radius:300px;-moz-border-radius:300px;-ms-border-radius:300px;-o-border-radius:300px;border-radius:300px}
+ .doraemon .face .eye{border:#555 3px solid;width:72px;height:83px;top:20px;z-index:20;background:#fff}
+ .doraemon .face .eye-left{left:146px}
+ .doraemon .face .eye-right{top:20px;right:146px}
+ .doraemon .face:hover .eye{-webkit-border-radius:75px;-moz-border-radius:75px;-ms-border-radius:75px;-o-border-radius:75px;border-radius:75px}
+ .doraemon .face .black-eye{position:absolute;width:15px;height:15px;background:#555;bottom:15px;z-index:21}
+ .doraemon .face .black-left{right:35px}
+ .doraemon .face .black-right{left:35px}
+ .doraemon .face:hover .black-eye{-webkit-border-radius:15px;-moz-border-radius:15px;-ms-border-radius:15px;-o-border-radius:15px;border-radius:15px}
+ .doraemon .face .nose{width:33px;height:33px;border:#555 3px solid;background:#e9463c;top:90px;left:130px;z-index:30;}
+ .doraemon .face .nose .nose-line{position:absolute;background:#555;width:3px;height:105px;top:28px;left:12px;z-index:20}
+ .doraemon .face:hover .nose{-webkit-border-radius:33px;-moz-border-radius:33px;-ms-border-radius:33px;-o-border-radius:33px;border-radius:33px}
+ .doraemon .face .mouth{width:180px;height:450px;border-bottom:4px solid #555;bottom:65px;left:58px;z-index:10}
+ .doraemon .face:hover .mouth{-webkit-border-radius:75px;-moz-border-radius:75px;-ms-border-radius:75px;-o-border-radius:75px;border-radius:75px}
+ .doraemon .face .whiskers{background:#555;height:2px;width:55px;z-index:20}
+ .doraemon .face .whi-left{left:70px}
+ .doraemon .face .whi-right{right:70px}
+ .doraemon .face .whi-top{bottom:180px}
+ .doraemon .face .whi-mid{bottom:170px}
+ .doraemon .face .whi-bottom{bottom:160px}
+ .doraemon .face .whi-left.whi-top, .doraemon .face .whi-right.whi-bottom{-webkit-transform:rotate(10deg);-moz-transform:rotate(10deg);-ms-transform:rotate(10deg);-o-transform:rotate(10deg);transform:rotate(10deg)}
+ .doraemon .face .whi-left.whi-bottom, .doraemon .face .whi-right.whi-top{-webkit-transform:rotate(-10deg);-moz-transform:rotate(-10deg);-ms-transform:rotate(-10deg);-o-transform:rotate(-10deg);transform:rotate(-10deg)}

@@ -1,0 +1,5 @@
+46 + 19 = 65
+75* 2 invalid format
+74 2 + invalid format
+15 * 3 = 45
+3 / 0 = None

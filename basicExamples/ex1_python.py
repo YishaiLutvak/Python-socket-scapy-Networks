@@ -1,0 +1,11 @@
+inputUser = input("Please enter a 5 digit number:\n")
+print("You entered the number: {}".format(inputUser))
+print("The digits of this number are: ", end="")
+print(inputUser[0], end="")
+sum0 = int(inputUser[0])
+for digit in inputUser[1:]:
+    sum0 += int(digit)
+    print(",", end="")
+    print(digit, end="")
+print("\nThe sum of the digits is: ", end="")
+print(sum0)
