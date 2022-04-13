@@ -1,10 +1,10 @@
 """
     Exam1 client implementation
-    Author: Yishai Lutvak 304909864
+    Author: Yishai Lutvak
     Date: 4/2/2022
 """
 
-from myTest2022.myTestProtocol import *
+from baseToTest2022A.myTestProtocol import *
 
 
 def main():

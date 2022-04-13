@@ -1,4 +1,4 @@
-# Yishai Lutvak 304909864
+# Yishai Lutvak
 #
 # The identification of the suspicious IP addresses is done according to
 # the number of times an address received syn_ack and did not reply afterwards ack

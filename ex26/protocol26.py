@@ -1,5 +1,5 @@
 """EX 2.6 protocol implementation
-   Author: Yishai Lutvak 304909864
+   Author: Yishai Lutvak
    Date: 23/10/2021
 """
 

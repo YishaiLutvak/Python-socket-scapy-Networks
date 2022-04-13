@@ -9,7 +9,7 @@ DNS_GOOGLE = "8.8.8.8"
 SOURCE_PORT = 54321
 DESTINATION_PORT = 53
 
-# Yishai Lutvak 30490864
+# Yishai Lutvak
 
 # tests:
 # 1)

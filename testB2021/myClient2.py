@@ -1,9 +1,9 @@
 from sys import argv
-from oldTestB.myProtocol2 import *
-SAVED_FILE_LOCATION = r'C:\Networks\work\oldTestB\my_secret_copy.png'
+from testB2021.myProtocol2 import *
+SAVED_FILE_LOCATION = r'C:\Networks\work\testB2021\my_secret_copy.png'
 
 
-# parameter for test: C:\Networks\work\oldTestB\my_secret.png
+# parameter for test: C:\Networks\work\testB2021\my_secret.png
 
 
 def acceptance_control(file_name) -> tuple:

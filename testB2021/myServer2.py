@@ -1,4 +1,4 @@
-from oldTestB.myProtocol2 import *
+from testB2021.myProtocol2 import *
 
 
 def handles_file_not_found(file_name, ip_dst) -> bool:

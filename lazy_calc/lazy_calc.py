@@ -1,4 +1,4 @@
-#  Yishai Lutvak 304909864
+#  Yishai Lutvak
 
 import sys
 import os

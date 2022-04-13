@@ -1,4 +1,4 @@
-from oldTestA.myProtocol1 import *
+from testA2021.myProtocol1 import *
 
 
 def main():

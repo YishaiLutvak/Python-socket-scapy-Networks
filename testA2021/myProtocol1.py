@@ -1,5 +1,5 @@
 """Exam1 protocol implementation
-   Author: Yishai Lutvak 304909864
+   Author: Yishai Lutvak
    Date: 30/12/2021
 """
 from scapy.all import *
