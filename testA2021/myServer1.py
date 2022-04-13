@@ -4,7 +4,7 @@ from oldTestA.myProtocol1 import *
 def main():
     p = sniff(count=1, lfilter=filter_msg)
     p[0].show()
-    secret = str(p[0][Raw].load.decode())
+    secret = p[0][Raw].load.decode()
     print("Secret message: " + secret)
     result = calc(secret)
     dst = p[0][IP].src

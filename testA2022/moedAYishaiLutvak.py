@@ -1,6 +1,6 @@
 """
-    Exam1 server implementation
-    Author: Yishai Lutvak 304909864
+    Exam implementation
+    Author: Yishai Lutvak
     Date: 4/2/2022
 """
 

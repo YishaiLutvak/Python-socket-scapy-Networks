@@ -47,4 +47,5 @@ def calc(secret):
 
 
 def create_msg(data, icmp_type, ip_dst='127.0.0.1'):
+    print(f'icmp type: {icmp_type}')
     return IP(dst=ip_dst) / ICMP(type=icmp_type) / Raw(load=data)
